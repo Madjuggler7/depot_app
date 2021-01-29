@@ -3,13 +3,13 @@
 one:
   title: MyString
   description: MyText
-  image_url: MyString
+  image_url: rise_of_nine.jpg
   price: 9.99
 
 two:
-  title: MyString
+  title: MyString2
   description: MyText
-  image_url: MyString
+  image_url: rise_of_nine.jpg
   price: 9.99
 
 
